@@ -1,11 +1,10 @@
 # Tartara Bot: 
 
-A discord bot that says "<target> es una tartara" when a certain person types a message.
+A discord bot that says "'username' es una tartara" when a certain person types a message.
 
 ## Usage
 
-To change the target use the following command
-!change-tartara <username> <name> 
+To change the target use the following command: !change-tartara username name 
 
 ## License
 
