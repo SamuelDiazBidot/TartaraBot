@@ -1,0 +1,8 @@
+{
+    "token" : "NjI5NDA4NjI2ODA0NjU0MTA1.XZZUsQ._7UjhF-5M6ZUyUsjDgwHOdvYrZQ",
+    "prefix" : "!",
+    "bot-name" : "TestBot",
+    "extension-folders" : [
+        "src/discord/extensions"
+    ]
+}
